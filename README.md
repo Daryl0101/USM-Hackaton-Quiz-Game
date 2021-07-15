@@ -1,5 +1,5 @@
 # USM-Y1S2-Hackaton2-Quiz-Game
-This is one of my university first year project. It is a game which utilizes linked lists to store the data of the participants and utilizes queues to store the quiz questions from a .txt file. Specifications:- 
+This is a game which utilizes linked lists to store the data of the participants and utilizes queues to store the quiz questions from a .txt file. Specifications:- 
 - Takes in unlimited amount of groups and unlimited amount of participants in each group. 
 - Each group will have the same number of participants. 
 - Questions can be customized by the user. - The participants will take turns to answer the quiz (G: Group, P: Player - G1P1, G2P1, G1P2, G2P2 . . .) 
