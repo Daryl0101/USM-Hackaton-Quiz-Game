@@ -1,0 +1,50 @@
+1 What is the king of fruits?;Rambutan;Durian;Mango;Jackfruit;b
+2 What is the queen of fruits?;Rambutan;Mangosteen;Mango;Jackfruit;b
+3 What is the capital of Spain?;Ottawa;Rome;Madrid;Paris;c
+4 What is the capital of Germany?;London;Rome;Madrid;Berlin;d
+5 What is the largest organ in the body?;brain;intestines;skin;liver;c
+6 What is the largest solid internal organ in the body?;brain;liver;lungs;heart;b
+7 In which direction does the sunrise?;North;South;East;West;c
+8 In which direction does the sun sets?;North;South;East;West;d
+9 How many bones does an adult human have?;200;206;212;218;b
+10 How many bones does a newborn baby has?;200;250;300;350;c
+11 Which is the hottest planet in universe?;Mercury;Venus;Mars;Jupiter;b
+12 Which is the coldest planet in universe?;Mars;Jupiter;Saturn;Neptune;d
+13 How many stomachs does a cow have?;one;two;three;four;d
+14 How many stomachs does a dolphin have?;one;two;three;four;b
+15 Which is the fastest animal on the land?;Cheetah;Pronghorn;Leopard;Lion;a
+16 Which is the fastest animal on the sea?;Bonefish;Swordfish;Sailfish;Marlin;d
+17 Which is the largest country in the world(by area)?;Canada;Russia;China;America;b
+18 Which is the largest ocean in the world?;Pacific;Atlantic;Indian;Southern;a
+19 Which is the smallest continent in the world?;Asia;Europe;Australia;Africa;c
+20 Which is the largest continent in the world?;Asia;Europe;Australia;Africa;a
+21 How many stars are there on the American flag?;20;30;40;50;d
+22 How many stars are there on the Chinese flag?;2;3;4;5;d
+23 What color symbolizes bravery?;red;blue;white;yellow;a
+24 What color symbolizes peace?;red;blue;white;yellow;b
+25 Which is the first element on the periodic table of elements?;Helium;Oxygen;Hydrogen;Lithium;c
+26 What is the element with atomic number 8?;Carbon;Nitrogen;Oxygen;Fluorine;c
+27 Which is the main gas that makes up the Earth’s atmosphere?;Nitrogen;Oxygen;Argon;Helium;a
+28 Which of these chemical elements is heavier than iron?;Manganese;Gold;Carbon;Potassium;b
+29 How many valves does the heart have?;1;2;3;4;d
+30 How many chambers does the heart have?;1;2;3;4;d
+31 In physics, for every action there is an equal and opposite what?;subraction;impaction;reaction;distraction;c
+32 What is the lightest metal?;Aluminium;Lithium;Iron;Potassium;b
+33 Force is calculated in ;kilogram;joules;Newton;Watt;c
+34 Power is calculated in ;kilogram;joules;Newton;Watt;d
+35 How many kilometers does one mile equals to?;1.2km;1.4km;1.6km;1.8km;c
+36 How many pounds does a kilogram equals to?;1.8lb;2.0lb;2.2lb;2.4lb;c
+37 How many elements are there in the periodic table?;98;108;118;128;b
+38 What is made up two or more elements that are chemically combined?;Element;Mixture;Compound;Solids;c
+39 Which country is brie cheese originally from?;Italy;Germany;Russia;France;d
+40 What nut is in the middle of a Ferrero Rocher?;Hazelnut;Macadamia;Almond;Walnut;a
+41 What's a male cow called?;cattle;cow;bull;calf;c
+42 What's a baby deer called?;buck;fawn;doe;stag;b
+43 A group of grasshoppers is called ;swarm;band;colony;array;a
+44 A group of bees is called ;colony;swarm;herd;army;b
+45 Two or more elements bonded together are ;mixture;substance;atom;compound;d
+46 The smallest part of an element is ;proton;atom;compound;mixture;b
+47 Product of Force and Velocity is called ;work;power;energy;momentum;b
+48 The measuring unit of pressure is ;Newton;Joule;Pascal;Coulomb;c
+49 Ammeter measures... ;voltage;current;force;temperature;b
+50 Which among the following is not a vector?;displacement;velocity;force;energy;d
